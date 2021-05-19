@@ -18,4 +18,12 @@ average_distance.py snp-dists-matrix
 ```
 
 ## Coexisting lineages per week
+[coexisting_linages.py](https://github.com/mlarjim/sarscov2-tools/blob/main/coexisting_linages.py/) outputs a table (.tsv) with the frecuency of every lineage per week.
 
+```
+coexisting_lineages.py metadata [-f] [-p]
+
+metadata  tsv with (at least) 'Lineage' and 'date' columns
+-f  outputs .tsv with the linages' earliest date
+-p  outputs .tsv of lineages per Andalusian province
+```
