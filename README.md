@@ -64,6 +64,7 @@ position  comma separated amino acid position of protein S
 
 ```
 frec_snp_gtc.py  directory1 [-t]
+
 directory1  /complete/directory/to/*_analysis_report.csv
 -t  outputs .tsv file of nucleotide substitution type frecuency (for example, C>T frecuency)
 ```
@@ -74,6 +75,7 @@ directory1  /complete/directory/to/*_analysis_report.csv
 
 ```
 tabla_Zekri_aa.py  directory1 [-a]
+
 directory1  /complete/directory/to/*_analysis_report.csv
 -a  adds a columns of amino acids alterations to .tsv file 
 ```
@@ -84,6 +86,7 @@ directory1  /complete/directory/to/*_analysis_report.csv
 
 ```
 wu_kabat_gtc.py  directory1 [-m] [-p]
+
 directory1  /complete/directory/to/*_analysis_report.csv
 -m  outputs a single .tsv file with all amino acid mutations 
 -p  outputs a .tsv file for every protein with variability coefficient even if there is no variability in that amino acid.
