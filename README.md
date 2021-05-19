@@ -100,5 +100,6 @@ Zekri, A. N. et al. Genomic characterization of SARS-CoV-2 in Egypt. J. Adv. Res
 Some scripts are aimed to Andalusian (from Andalusia, Spain) sequences because they were created as part of my Thesis proyect: *Genomic and population diversity analysis of SARS-CoV-2 during first epidemic wave in Andalusia*
 
 🍃
+
 LinkedIn [🔗](www.linkedin.com/in/maria-lara-jimenez)
 
