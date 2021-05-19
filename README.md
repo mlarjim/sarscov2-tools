@@ -104,5 +104,5 @@ Some scripts are aimed to Andalusian (from Andalusia, Spain) sequences because t
 
 🍃
 
-LinkedIn [🔗](www.linkedin.com/in/maria-lara-jimenez)
+LinkedIn [🔗](http://linkedin.com/in/maria-lara-jimenez)
 
