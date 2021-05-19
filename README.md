@@ -24,6 +24,12 @@ average_distance.py snp-dists-matrix
 coexisting_lineages.py metadata [-f] [-p]
 
 metadata  tsv with (at least) 'Lineage' and 'date' columns
--f  outputs .tsv with the linages' earliest date
+-f  outputs .tsv with the lineages' earliest date
 -p  outputs .tsv of lineages per Andalusian province
 ```
+
+
+
+
+#### Owner note
+Some scripts are aimed to Andalusian (from Andalusia, Spain) sequences because they were created as part of my Thesis proyect: *Genomic and population diversity analysis of SARS-CoV-2 during first epidemic wave in Andalusia*
