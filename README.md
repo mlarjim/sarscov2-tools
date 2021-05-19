@@ -89,7 +89,7 @@ directory1  /complete/directory/to/*_analysis_report.csv
 -p  outputs a .tsv file for every protein with variability coefficient even if there is no variability in that amino acid.
 ```
 
-# Bibliography
+## Bibliography
 Wu, T. T. & Kabat, E. A. An analysis of the sequences of the variable regions of Bence Jones proteins and myeloma light chains and their implications for antibody complementarity. J. Exp. Med. 132, 211–250 (1970).
 
 Zekri, A. N. et al. Genomic characterization of SARS-CoV-2 in Egypt. J. Adv. Res. (2020).
