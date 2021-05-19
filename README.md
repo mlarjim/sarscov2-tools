@@ -91,10 +91,14 @@ directory1  /complete/directory/to/*_analysis_report.csv
 
 # Bibliography
 Wu, T. T. & Kabat, E. A. An analysis of the sequences of the variable regions of Bence Jones proteins and myeloma light chains and their implications for antibody complementarity. J. Exp. Med. 132, 211–250 (1970).
+
 Zekri, A. N. et al. Genomic characterization of SARS-CoV-2 in Egypt. J. Adv. Res. (2020).
 
 
 
 #### Owner note
 Some scripts are aimed to Andalusian (from Andalusia, Spain) sequences because they were created as part of my Thesis proyect: *Genomic and population diversity analysis of SARS-CoV-2 during first epidemic wave in Andalusia*
+
+🍃
+LinkedIn [🔗](www.linkedin.com/in/maria-lara-jimenez)
 
